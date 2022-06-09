@@ -1,3 +1,9 @@
 *{
   margin:0;
 }
+
+span{
+  background: orange;
+  display: block;
+  width: 3em;
+}
